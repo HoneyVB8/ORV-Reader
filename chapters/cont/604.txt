@@ -22,6 +22,7 @@ Sponsor: Snake that Cut off its Tail
 Exclusive Attribute: Lizardman (Rare)
 Total stats: [Stamina Lv.14], [Strength Lv.13], [Agility Lv.16], [Magic Power Lv.7]
 +
++
 <Character summary information>
 Name: Kim Jeonhwa
 Sponsor: Plague-Bringing Rat
